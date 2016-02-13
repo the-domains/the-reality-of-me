@@ -1,0 +1,28 @@
+name: The reality of me
+favicon: null
+layout_spectrum: 0.008672510040923953
+typography_spectrum: 0.5971524578053504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.49506044504232705
+  lightness: 0.3275742575060576
+  saturation: 0.6496739636640996
+  rhythmicContrast: 0.5744957209099084
+purpose: []
