@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The reality of me]]></title>
         <description><![CDATA[The reality of me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-reality-of-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 00:59:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 00:59:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-reality-of-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>null</p>]]></description>
+            <link>https://thegrid.ai/the-reality-of-me/3676ac51-5d04-497f-aa80-c247d31d9165/index.html</link>
+            <guid isPermaLink="false">3676ac51-5d04-497f-aa80-c247d31d9165</guid>
+            <pubDate>Sat, 13 Feb 2016 00:59:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Mastiff Mom</p></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/the-reality-of-me/about-me/index.html</link>
             <guid isPermaLink="false">7acd7116-674f-4f4a-93b4-da3f76a850fc</guid>
             <pubDate>Sat, 13 Feb 2016 00:59:16 GMT</pubDate>
         </item>
